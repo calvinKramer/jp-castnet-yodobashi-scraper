@@ -1,0 +1,4 @@
+{
+    "base_url": "https://www.yodobashi.com",
+    "scrape_interval_seconds": 3600
+}
